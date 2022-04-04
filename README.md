@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Dancing%20Rainbow%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hello🤠&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuyafeiya&theme=radical&show_icons=true)
 ![](https://activity-graph.herokuapp.com/graph?username=wuyafeiya&theme=redical)
 

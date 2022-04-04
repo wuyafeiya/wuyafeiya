@@ -2,6 +2,7 @@
 
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Dancing%20Rainbow%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wuyafeiya&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuyafeiya&theme=solarized-dark&show_icons=true)
 ![](https://activity-graph.herokuapp.com/graph?username=wuyafeiya&theme=redical)
 

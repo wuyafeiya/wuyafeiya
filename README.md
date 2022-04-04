@@ -4,11 +4,9 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hello🤠&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
-
-|![](https://github-readme-stats.vercel.app/api?username=wuyafeiya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyafeiya&layout=compact&theme=tokyonight&langs_count=10)|
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuyafeiya&theme=radical&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyafeiya&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuyafeiya&theme=radical&show_icons=true)
 ![](https://activity-graph.herokuapp.com/graph?username=wuyafeiya&theme=redical)
 
 Here are some ideas to get you started:

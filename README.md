@@ -2,6 +2,8 @@
 
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Dancing%20Rainbow%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+|![](https://github-readme-stats.vercel.app/api?username=jasonkayzk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&langs_count=10)|
+|-|-|
 
 Here are some ideas to get you started:
 

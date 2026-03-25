@@ -1,47 +1,22 @@
-<!-- ⚡ Minimalist Visual GitHub Profile with Frontend Tech Stack -->
-<p align="center">
-  <!-- GitHub Stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wuyafeiya&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuyafeiya&layout=compact&theme=dark" />
-</p>
+# 你好，我是 Pat
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=wuyafeiya&theme=dark&hide_border=true" />
-</p>
+前端为主，喜欢做开发工具、浏览器效率工具和一些实用小项目。
 
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=wuyafeiya&theme=darkhub&margin-w=10&margin-h=10&no-frame=true" />
-</p>
+## 代表项目
 
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wuyafeiya&theme=github-dark&area=true&hide_border=true" />
-</p>
+- [Claudecode-devtools](https://github.com/wuyafeiya/Claudecode-devtools): Local web dashboard for managing Claude Code config, hooks, and skills/plugins.
+- [tanz](https://github.com/wuyafeiya/tanz): 节点可连接性探测器，用于检测 Shadowsocks 节点是否真的可用。
+- [css-Inspector](https://github.com/wuyafeiya/css-Inspector): 交互式 CSS 属性编辑器与可视化 playground，内置 MDN 数据。
+- [CaptureEase](https://github.com/wuyafeiya/CaptureEase): 浏览器截图与标注工具。
+- [BookMark-Manager](https://github.com/wuyafeiya/BookMark-Manager): 简洁优雅的浏览器书签管理工具。
+- [Bills](https://github.com/wuyafeiya/Bills): 基于 Vue 3 和 Vite 的个人账单管理应用。
 
-<p align="center">
-  <!-- Frontend Tech Stack Icons -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,nuxtjs,svelte,tailwind,bootstrap,materialui,antd,webpack,vite,eslint,prettier,storybook,nodejs,docker,git,npm,yarn" />
-</p>
+## 关注方向
 
-<p align="center">
-  <!-- Social Icons -->
-  <a href="mailto:yourname@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-  </a>
-  <a href="https://github.com/wuyafeiya">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
-  <a href="https://www.twitter.com">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45" />
-  </a>
-</p>
+- DevTools / Workflow Tools
+- Browser Productivity Tools
+- Vue / Nuxt / TypeScript
 
-<p align="center">
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=wuyafeiya&label=&color=gray&style=flat-square" alt="profile views" />
-</p>
+## 常用技术
+
+Vue, Nuxt, TypeScript, Vite, Node.js, Tailwind CSS, Fastify

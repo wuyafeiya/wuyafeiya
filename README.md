@@ -60,6 +60,28 @@ I build devtools, browser utilities, and small products that aim to feel polishe
 </tr>
 </table>
 
+## Currently Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/wuyafeiya/clock"><strong>clock</strong></a><br />
+  Minimal macOS timer app built with SwiftUI.<br />
+  <sub>macOS / SwiftUI / timer</sub>
+</td>
+<td width="50%" valign="top">
+  Refining small desktop tools that feel fast, focused, and intentional instead of overbuilt.<br />
+  <sub>minimal interfaces / practical UX / lightweight product design</sub>
+</td>
+</tr>
+</table>
+
+## Working Style
+
+- Start with the smallest useful version, then refine the interaction quality.
+- Prefer tools that solve one clear problem well over feature-heavy dashboards.
+- Care a lot about polish, clarity, and whether something actually earns a place in daily use.
+
 <p align="center">
   <a href="https://github.com/wuyafeiya?tab=repositories"><strong>Browse all repositories</strong></a>
 </p>

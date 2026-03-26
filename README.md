@@ -26,7 +26,7 @@ I build devtools, browser utilities, and small products that aim to feel polishe
 
 </td>
 <td width="42%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=wuyafeiya&show_icons=true&hide_border=true&title_color=2B2623&icon_color=D8705B&text_color=5D534D&bg_color=FFF8EF" />
+  <img src="https://github-readme-stats-two-kohl-90.vercel.app/api?username=wuyafeiya&show_icons=true&hide_border=true&title_color=2B2623&icon_color=D8705B&text_color=5D534D&bg_color=FFF8EF" />
 </td>
 </tr>
 </table>
